@@ -1,0 +1,35 @@
+{
+  "_from": "cordova-plugin-moengage",
+  "_id": "cordova-plugin-moengage@5.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-5ix7CmYxFJBnjU44ZvVfJ9o4u3YLl48tY1kUBfwaaFBujR56Y3XJqRor6IJxpFJMGdlFKCXZUMkVVlCiiKHkqg==",
+  "_location": "/cordova-plugin-moengage",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-moengage",
+    "name": "cordova-plugin-moengage",
+    "escapedName": "cordova-plugin-moengage",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/moengagesdk/-/moengagesdk-5.0.1.tgz",
+  "_shasum": "0d7d9547c30b8a9016254920530647aa6cb2cfc1",
+  "_spec": "cordova-plugin-moengage",
+  "_where": "/home/choice/Documents/ChoiceProjects/myJiffyApp",
+  "author": {
+    "name": "moengage"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "MoEngage Cordova SDK",
+  "license": "ISC",
+  "name": "cordova-plugin-moengage",
+  "version": "5.0.1"
+}
