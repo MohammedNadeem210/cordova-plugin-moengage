@@ -51,7 +51,7 @@
         <source-file src="src/ios/MoEngage/AppDelegate+MoEngage.m" />
 
         <!-- MoEngage iOS SDK files -->
-        <framework src="MoEngage-iOS-SDK" type="podspec" spec="~> 6.0.0"/>
+        <framework src="MoEngage-iOS-SDK" type="podspec" spec="~> 5.0.0"/>
 		<framework src="MoEngage.framework" />
     </platform>
 </plugin>
